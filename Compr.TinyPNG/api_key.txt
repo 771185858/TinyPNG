@@ -1,0 +1,1 @@
+你应从https://tinify.com/developers获取API_KEY并填入到这里（每一行代表一个API_KEY，可多个）
